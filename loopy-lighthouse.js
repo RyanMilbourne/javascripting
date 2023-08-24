@@ -6,6 +6,6 @@ for (let number = 100; number <= 200; number++){
   } else if (number % 4 === 0) {
     console.log("Lighthouse");
   } else {
-  console.log(number);
+    console.log(number);
   }
 }
